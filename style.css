@@ -1,0 +1,19 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 25px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 30px;
+}
